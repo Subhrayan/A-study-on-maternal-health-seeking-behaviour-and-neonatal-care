@@ -3,6 +3,6 @@ Analyzed the Eligible Women and Individual dataset of IHDS 2 (2011-2012), and ha
 
 ### Links
 
-**Presentation:** https://docs.google.com/presentation/d/1JSlYE6jcBB5yFAE_miyO8fJm_De3lbRA/edit?usp=sharing&ouid=114814658479585156492&rtpof=true&sd=true
+**Presentation:**  [PPt of the study](https://docs.google.com/presentation/d/1JSlYE6jcBB5yFAE_miyO8fJm_De3lbRA/edit?usp=sharing&ouid=114814658479585156492&rtpof=true&sd=true)
 
 **Full report:** https://drive.google.com/file/d/1elWBs8x-5ypRSXvzugv2LgESxfcKwcmt/view?usp=sharing
